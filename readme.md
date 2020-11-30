@@ -1,5 +1,7 @@
 ## Expense Tracker
 
+[DEMO LINK](https://mishtal-andrii.github.io/expense-tracker/).
+
 Keep track of income and expenses. Add and remove items and save to local storage
 
 ## Project Specifications
